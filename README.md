@@ -2,7 +2,7 @@
 Khan et al-Agreement Between Fingerstick Blood Glucose and Continuous Glucose Monitor Measures Among Long-Term Care Facility Residents.
 
 # Description
-This repository contains data documentation and code for the analysis in the manuscript titled Agreement Between Fingerstick Blood Glucose and Continuous Glucose Monitor Measures Among Long-Term Care Facility Residents..
+This repository contains data documentation and code for the analysis in the manuscript titled Agreement Between Fingerstick Blood Glucose and Continuous Glucose Monitor Measures Among Long-Term Care Facility Residents.
 ## Repository Contents
 - `data_documentation/` - Contains files describing the data sources, and key variables
 - `code/` - The programs used for data management and analysis.
@@ -22,4 +22,5 @@ The `code/` directory contains the following programs:
  5. Phi correlations in R_cohort 2.R <Calculate Phi correlations between CGM and FBG in the day and interval level>
  6. Demographics_cohort 2.sas <Obtain demographic statisitics for the cohort>
 Programs were run in sequence to produce the study findings.
-<The analytic code for Cohort 2 has been made available on GitHub. While the analysis code for Cohort 1 is fundamentally the same, it has not been uploaded due to data privacy policies.>
+
+<The analytic code for Cohort 2 has been made available on GitHub. While the analysis code for Cohort 1 is fundamentally the same, it has not been uploaded due to data privacy policies>
