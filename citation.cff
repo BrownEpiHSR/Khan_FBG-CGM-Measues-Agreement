@@ -3,14 +3,19 @@ message: "If you use this software, please cite it as below."
 authors:
 - family-names: "Khan"
   given-names: "Marzan Alam"
+  orcid: https://orcid.org/0009-0002-0604-5595
 - family-names: "Munshi"
   given-names: "Medha
+  orcid: https://orcid.org/0000-0000-0000-0000
 - family-names: "Slyne"
   given-names: "Christine"
+  orcid: https://orcid.org/0000-0000-0000-0000
 - family-names: "Joyce"
   given-names: "Nina"
+  orcid: https://orcid.org/0000-0000-0000-0000
 - family-names: "Zullo"
   given-names: "Andrew"
+  orcid: https://orcid.org/0000-0000-0000-0000
 
 title: "Khan_FBF-CGM-Measues-Agreement"
 version: 1.0.0
