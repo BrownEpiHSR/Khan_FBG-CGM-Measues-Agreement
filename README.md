@@ -14,7 +14,7 @@ Data_Documentation_CGM-FBG Agreement.xlsx <
 
 ## Code
 The `code/` directory contains the following programs:
- 1. CGM_macro_altered.sas - <Create day-level and day-interval level CGM datasets for each person>
+ 1. CGM_macro_altered.sas <Create day-level and day-interval level CGM datasets for each resident>
  2. Fingerstick_macro_altered.sas - <Create day-level and day-interval level fingersticks datasets for all residents combined>
  3. Day-level and person-level analyses.sas - <Conduct day- and person-level analysis of CGM and fingerstick data>
  4. Interval-level analyses (Overall).sas <Conduct interval- level analysis of CGM and fingerstick data>
