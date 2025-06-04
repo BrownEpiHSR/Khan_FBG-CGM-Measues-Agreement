@@ -14,14 +14,19 @@ Data_Documentation_CGM-FBG Agreement.xlsx <
 
 ## Code
 The `code/` directory contains the following programs:
- 1. CGM_macro_cohort 2.sas - <A macro that will generate day level and day-interval level CGM dataset for each person 
-			in cohort 2>
- 2. Fingerstick_macro_cohort 2.sas - <A macro that will create day level and day-interval level fingersticks dataset for           each person	in cohort 2>
- 3. Day level analysis_cohort 2.sas - <Conduct day level analysis of CGM and fingerstick data>
- 4. Interval level analysis_cohort 2.sas <Conduct interval level analysis of CGM and fingerstick data>
- 5. Phi correlations in R_cohort 2.R <Calculate Phi correlations between CGM and FBG in the day and interval level>
- 6. Demographics_cohort 2.sas <Obtain demographic statisitics for the cohort>
+ 1. CGM_macro_altered.sas - <Create day-level and day-interval level CGM datasets for each person>
+ 2. Fingerstick_macro_altered.sas - <Create day-level and day-interval level fingersticks datasets for all residents combined>
+ 3. Day-level and person-level analyses.sas - <Conduct day- and person-level analysis of CGM and fingerstick data>
+ 4. Interval-level analyses (Overall).sas <Conduct interval- level analysis of CGM and fingerstick data>
+ 5. CGM_macro_allevents.R <Create a macro that will process excel sheets containing CGM data of residents and create sas datasets, with an indicator for hypoglycemia for every CGM record>
+ 6. Fingerstick_macro_allevents.sas <Create a macro that will process excel sheets containing FBG data of residents and create sas datasets, with an indicator for hypoglycemia for every CGM record>
+ 7. Number of hypoglycemia events per person.sas <Calculate the number of hypoglycemia events per resident captured by CGM and FBG and create a scatter plot>
+ 8. Time of day stratified analysis.sas <
+ 9. Time difference_lowest FBG-nearest CGM_8hour overall.sas<>
+ 10. Time difference_lowest FBG-nearest CGM_day-level.sas <>
+ 11. Statistics on the number of CGM and FBG readings.sas <>
+ 12. Demographics_cohort 2 <>
+ 13. Phi correlations in R <>
 
 Programs were run in sequence to produce the study findings.
-
 <The analytic code for Cohort 2 has been made available on GitHub. While the analysis code for Cohort 1 is fundamentally the same, it has not been uploaded due to data privacy policies>
